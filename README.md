@@ -16,6 +16,7 @@ _____
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
@@ -54,7 +55,9 @@ _____
 <p>
 
 ## Contacto:
-<p><a href=mailto:flp.esp.val@gmail.com?subject="Contacto por GitHub">GMAIL</a></p>
+<p><a href=mailto:flp.esp.val@gmail.com?subject="Contacto por GitHub">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>
 <p>
-<a href="https://instagram.com/kingder2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asdfasdeerf" height="30" width="40" /></a>
+<a href="https://instagram.com/kingder2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flp" height="30" width="40" /></a>
 </p>
