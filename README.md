@@ -58,6 +58,8 @@ _____
 <p><a href=mailto:flp.esp.val@gmail.com?subject="Contacto por GitHub">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>
-<p>
+<!-- <p>
 <a href="https://instagram.com/kingder2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flp" height="30" width="40" /></a>
+</p> -->
+<a href="https://linkedin.com/in/fran-lopez-4b29612a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fran-lopez-4b29612a2" height="30" width="40" /></a>
 </p>
