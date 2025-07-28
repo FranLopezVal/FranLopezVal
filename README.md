@@ -1,7 +1,7 @@
 ### Hola a todos! 👋
 
-Desarrollador indie por mas de 12 años! aprendiendo constantemente nuevos lenguajes y tecnologias.
-  Empeze mi carrera profesional como programador en 2016 y he trabajado como desarrollador Web full-stack, 
+Más de 10 años como desarrollador, y 4 como consultor en arquitectura de software y análisis técnico, aprendiendo constantemente nuevos lenguajes y tecnologias.
+  Empeze mi carrera profesional como programador en 2016 y he trabajado como desarrollador full-stack, 
   en proyectos audiovisuales para Motion twin, Sistemas sanitarios en Ayesa, ademas de otros trabajos para otras compañias.
 <h6>
 Los proyectos que se ven en mi perfil de GitHub son a modo de portfolio.
